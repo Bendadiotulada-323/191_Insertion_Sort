@@ -16,4 +16,7 @@ void input(){
             "cout << \nArray Tidak Boleh dari 20\n";
         }
     }
+    cout << endl;
+    cout << "============================="
+    cout << "==========masukan Element Array==========="
 }
