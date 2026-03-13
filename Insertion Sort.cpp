@@ -12,5 +12,8 @@ void input(){
         if (n <=20){
             break;
         }
+        else{
+            "cout << \nArray Tidak Boleh dari 20\n";
+        }
     }
 }
